@@ -1,5 +1,5 @@
-
 {
+  "buildCommand": "pnpm install --no-frozen-lockfile && pnpm run build",
   "build": {
     "env": {
       "NPM_CONFIG_USER_AGENT": "pnpm"
